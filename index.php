@@ -1,1 +1,1 @@
-<!doctype html><html><head><meta charset="utf-8"><title>Untitled Document</title><link href="style.css" rel="stylesheet" type="text/css" ></head><body></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>Untitled Document</title><link href="style.css" rel="stylesheet" type="text/css" ></head><body><a href="#">a</a></body></html>
