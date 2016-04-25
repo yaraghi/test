@@ -1,1 +1,1 @@
-<!doctype html>itle><link href="style.css" rel="stylesheet" type="text/css" ></head><body><a href="#">a</a></body></html>
+<span>asd </span><link href="style.css" rel="stylesheet" type="text/css" ></head><body><a href="#">a</a></body></html>
